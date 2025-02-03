@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/antoniovalentines/static/css/main.c9d883ff.css",
+    "main.js": "/antoniovalentines/static/js/main.215db189.js",
+    "static/js/488.d87da83b.chunk.js": "/antoniovalentines/static/js/488.d87da83b.chunk.js",
+    "static/media/nahidasad.gif": "/antoniovalentines/static/media/nahidasad.c52a283f66c8576ec565.gif",
+    "static/media/furinalove.gif": "/antoniovalentines/static/media/furinalove.286b348c1ad3953ea91d.gif",
+    "static/media/kleelove.gif": "/antoniovalentines/static/media/kleelove.24e475aec32c5d80f2fc.gif",
+    "static/media/neuvilletesad.gif": "/antoniovalentines/static/media/neuvilletesad.67a93e430ac5bd84b900.gif",
+    "static/media/shogunsad.gif": "/antoniovalentines/static/media/shogunsad.3d0f39dd37b59bac4357.gif",
+    "static/media/valentin.jpg": "/antoniovalentines/static/media/valentin.25195b32f3ea954047aa.jpg",
+    "static/media/shogunlove.gif": "/antoniovalentines/static/media/shogunlove.11abb925a7fa1cba2362.gif",
+    "static/media/nahida.gif": "/antoniovalentines/static/media/nahida.46442933d0deb2fc96a4.gif",
+    "static/media/jeanlove.gif": "/antoniovalentines/static/media/jeanlove.36929c140025f396c391.gif",
+    "static/media/wildlove.otf": "/antoniovalentines/static/media/wildlove.93ffcb4508e8b92f98fa.otf",
+    "static/media/paimonsad.gif": "/antoniovalentines/static/media/paimonsad.eeb3ca95b13102db35e8.gif",
+    "static/media/monalove.gif": "/antoniovalentines/static/media/monalove.4dfc1b597c2210f4bccd.gif",
+    "index.html": "/antoniovalentines/index.html",
+    "main.c9d883ff.css.map": "/antoniovalentines/static/css/main.c9d883ff.css.map",
+    "main.215db189.js.map": "/antoniovalentines/static/js/main.215db189.js.map",
+    "488.d87da83b.chunk.js.map": "/antoniovalentines/static/js/488.d87da83b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d883ff.css",
+    "static/js/main.215db189.js"
+  ]
+}
