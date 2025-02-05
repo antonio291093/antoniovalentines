@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/antoniovalentines/static/css/main.c9d883ff.css",
+    "main.css": "/antoniovalentines/static/css/main.775b68e7.css",
     "main.js": "/antoniovalentines/static/js/main.215db189.js",
     "static/js/488.d87da83b.chunk.js": "/antoniovalentines/static/js/488.d87da83b.chunk.js",
     "static/media/nahidasad.gif": "/antoniovalentines/static/media/nahidasad.c52a283f66c8576ec565.gif",
@@ -16,12 +16,12 @@
     "static/media/paimonsad.gif": "/antoniovalentines/static/media/paimonsad.eeb3ca95b13102db35e8.gif",
     "static/media/monalove.gif": "/antoniovalentines/static/media/monalove.4dfc1b597c2210f4bccd.gif",
     "index.html": "/antoniovalentines/index.html",
-    "main.c9d883ff.css.map": "/antoniovalentines/static/css/main.c9d883ff.css.map",
+    "main.775b68e7.css.map": "/antoniovalentines/static/css/main.775b68e7.css.map",
     "main.215db189.js.map": "/antoniovalentines/static/js/main.215db189.js.map",
     "488.d87da83b.chunk.js.map": "/antoniovalentines/static/js/488.d87da83b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9d883ff.css",
+    "static/css/main.775b68e7.css",
     "static/js/main.215db189.js"
   ]
 }
